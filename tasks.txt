@@ -12,7 +12,13 @@
 				#777 - small footer text (gray)
 	Moodle Theme - 
 
-2. Choose layout for all pages
+2. Identify elements that need to appear on each page.
+	Student Dashboard -
+	Course categories - 
+	Courses -
+	
+
+3. Choose layout for all pages
 	Base - 
 	Course categories - 
 	Courses -
