@@ -1,3 +1,10 @@
-1. Identify and select color schemes from moodle and FHTC. 
-	#003FA2 -BLUE, #E8BB51 -GOLD, #101010 -CHARCOL, #EFEFEF -SHADOW, #444444 -GREY FOOTER
+1. Identify and select color schemes from moodle and FHTC.
+	FHTC Theme -
+		Background Colors:
+			#003FA2 -BLUE
+			#E8BB51 -GOLD
+			#101010 -CHARCOAL
+			#EFEFEF -SHADOW
+			#444444 -GREY FOOTER
+
 2. Chose layout for courses page
