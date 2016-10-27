@@ -1,1 +1,2 @@
 1. Identify and select color schemes from moodle and FHTC.
+2. Chose layout for courses page
