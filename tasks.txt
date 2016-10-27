@@ -7,4 +7,10 @@
 			#EFEFEF -SHADOW
 			#444444 -GREY FOOTER
 
-2. Chose layout for courses page
+
+2. Chose layout for all pages
+
+	Base - 
+	Course categories - 
+	Courses -
+	Student Dashboard -
