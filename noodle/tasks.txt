@@ -1,43 +1,77 @@
 1. Identify and select color schemes from moodle and FHTC.
+
 	FHTC Theme -
+
 		Background Colors:
+
 		#003fa2 - header (blue)
+
 		#e8bb51 - accents (gold)
+
 		#101010 - fixed navba (charcoal)
-		#efefef - main body background (off-white) 
+
+		#efefef - main body background (off-white)
+ 
 				#003da6 - header text (blue)
+
 				#777 - body text (gray)
+
 		#444444 - gray (footer)
+
 				#efefef - link text (off-white)
+
 				#777 - small footer text (gray)
+
 	Moodle Theme -
+
 		Moodle:
-		
+		just kidding moodle sucks, we're not gonna take anything from it.
+
 
 2. Identify elements that appear on each page.
+
 	Student Dashboard -
+
 		Default Elements:
+
 		(necessary)
+
 		Student Navigation
+
 		Course Overview
+
+
 		
-		(junk nobody wants needs or uses)
+(junk nobody wants needs or uses)
+
 		Private Files
+
 		Latest Badges
+
 		Upcoming Events
 
-		(missing)
-		grades for current courses
-		current GPA
-		courses: quick access
-		
 
-		
-	Course categories - 
+
+		(missing)
+
+		grades for current courses
+
+		current GPA
+
+		courses: quick access
+
+
+	Course categories -
+ 
 	Courses -
-	
+
+
+
 
 3. Choose layout for all pages
-	Course categories - 
+
+	Course categories -
+ 
 	Courses -
+
 	Student Dashboard -
