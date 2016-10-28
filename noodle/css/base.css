@@ -1,1 +1,96 @@
-/* base */
+body {
+    color: #777;
+    background-color: #efefef
+}
+
+h2 {
+    font-weight: 900
+}
+
+h3 {
+    color: #003da6;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: Calibri
+}
+
+h5 {
+    font-weight: 600
+}
+
+select {
+    color: #777
+}
+
+.input-group,form-sel {
+    margin-top: 8px
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0
+}
+
+.row-pad {
+    padding: 10px 0
+}
+
+.footer-rb {
+    border-right-color: #5e5e5e;
+    border-right-style: solid;
+    border-right-width: 1px
+}
+
+.fhtc-bk-grey-lt {
+    background-color: #e1e1e1
+}
+
+.fhtc-bk-blue-lt {
+    background-color: #d9e7ff
+}
+
+#logo-bar {
+    background: #003fa2 url('logos/wrangler-logo-blue.png') no-repeat top left;
+    height: 100px;
+    position: relative;
+    margin-top: 50px;
+    padding: 5px 0
+}
+
+#logo-bar img {
+    margin-left: 10px;
+    height: 90px
+}
+
+@media(max-width: 768px) {
+    #logo-bar {
+        background-position:top center;
+        margin-top: 50px;
+        height: 150px
+    }
+
+    div.col-sm-8 {
+        text-align: center
+    }
+
+    img {
+        margin-left: 0
+    }
+}
+
+.page {
+    background: #fff;
+    position: relative;
+    -webkit-box-shadow: 0 0 40px 5px rgba(0,0,0,.31);
+    -moz-box-shadow: 0 0 40px 5px rgba(0,0,0,.31);
+    box-shadow: 0 0 40px 5px rgba(0,0,0,.31)
+}
+
+.page p {
+    text-align: justify
+}
