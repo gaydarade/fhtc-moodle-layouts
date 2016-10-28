@@ -10,16 +10,34 @@
 		#444444 - gray (footer)
 				#efefef - link text (off-white)
 				#777 - small footer text (gray)
-	Moodle Theme - 
+	Moodle Theme -
+		Moodle:
+		
 
-2. Identify elements that need to appear on each page.
+2. Identify elements that appear on each page.
 	Student Dashboard -
+		Default Elements:
+		(necessary)
+		Student Navigation
+		Course Overview
+		
+		(junk nobody wants needs or uses)
+		Private Files
+		Latest Badges
+		Upcoming Events
+
+		(missing)
+		grades for current courses
+		current GPA
+		courses: quick access
+		
+
+		
 	Course categories - 
 	Courses -
 	
 
 3. Choose layout for all pages
-	Base - 
 	Course categories - 
 	Courses -
 	Student Dashboard -
