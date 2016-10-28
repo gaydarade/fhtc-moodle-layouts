@@ -1,0 +1,25 @@
+1. Identify and select color schemes from moodle and FHTC.
+	FHTC Theme -
+		Background Colors:
+		#003fa2 - header (blue)
+		#e8bb51 - accents (gold)
+		#101010 - fixed navba (charcoal)
+		#efefef - main body background (off-white) 
+				#003da6 - header text (blue)
+				#777 - body text (gray)
+		#444444 - gray (footer)
+				#efefef - link text (off-white)
+				#777 - small footer text (gray)
+	Moodle Theme - 
+
+2. Identify elements that need to appear on each page.
+	Student Dashboard -
+	Course categories - 
+	Courses -
+	
+
+3. Choose layout for all pages
+	Base - 
+	Course categories - 
+	Courses -
+	Student Dashboard -
