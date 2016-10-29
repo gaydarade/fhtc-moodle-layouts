@@ -1,5 +1,11 @@
+Goal:
+	Make Moodle look better, and bring it into a stylistic cohesion with fhtc.edu.
+
 1. Identify and select color schemes from moodle and FHTC.
 
+	(Why not just rip this wholesale out of the CSS on fhtc? We have the technology...)
+
+	/* all this junk is old, we're just gonna take styles off of fhtc.edu for starters */
 	FHTC Theme -
 
 		Background Colors:
@@ -30,9 +36,11 @@
 
 2. Identify purpose of each page.
 
-	Student Dashboard -
+	Every Page - 
 		Provides access to moodle profile/personal profile.
 		Allows user to easily navigate through the rest of the site.
+
+	Student Dashboard -
 		Allows user to easily track and navigate to their classes.
 		Moodle has calendars, messages, and other widgets that are just clutter.
 			Throw them in the garbage?
@@ -44,24 +52,34 @@
 			School Closings (this info probably emailed/texted to them)?
 			Teacher Name & Contact info?
 			Uhhhhhh..?
+			idk, im not a very good student.
 	Course categories -
+		We absolutely need to have all of the categories.
+		That's a given,
+		Maybe drop downs that show courses or sub-categories?
  
 	Courses -
 
+		Basically just list all the courses in a given category, right?
 
 3. Identify elements that appear on each page.
 
+
+	Every Page - 
+		header area
+			Currently logged in student top right?
+				Log out
+		.breadcrumb nav under header?
+	
 	Student Dashboard -
 
 		Default Elements:
 
-		(necessary)
-		.breadcrumb nav under header?
-		Currently logged in student top right?
-			Log out
-		Student Navigation
+		(necessary)	
+		body area
+			Student Navigation
 
-		Course Overview
+			Course Overview
 
 
 		
@@ -93,9 +111,8 @@
 
 
 4. Choose layout for all pages
+	Student Dashboard -
 
 	Course categories -
  
 	Courses -
-
-	Student Dashboard -
