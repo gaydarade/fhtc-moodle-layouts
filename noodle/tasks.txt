@@ -28,14 +28,37 @@
 		just kidding moodle sucks, we're not gonna take anything from it.
 
 
-2. Identify elements that appear on each page.
+2. Identify purpose of each page.
+
+	Student Dashboard -
+		Provides access to moodle profile/personal profile.
+		Allows user to easily navigate through the rest of the site.
+		Allows user to easily track and navigate to their classes.
+		Moodle has calendars, messages, and other widgets that are just clutter.
+			Throw them in the garbage?
+		Should allow student to track the important stuff of their student life.
+			Meaning:
+			Enrolled Classes
+			GPA
+			Site Navigation?
+			School Closings (this info probably emailed/texted to them)?
+			Teacher Name & Contact info?
+			Uhhhhhh..?
+	Course categories -
+ 
+	Courses -
+
+
+3. Identify elements that appear on each page.
 
 	Student Dashboard -
 
 		Default Elements:
 
 		(necessary)
-
+		.breadcrumb nav under header?
+		Currently logged in student top right?
+			Log out
 		Student Navigation
 
 		Course Overview
@@ -65,10 +88,11 @@
  
 	Courses -
 
+
 
 
 
-3. Choose layout for all pages
+4. Choose layout for all pages
 
 	Course categories -
  
