@@ -11282,8 +11282,6 @@ hr {
     background-color: #d9e7ff
 }
 
-@logo: url(wrangler-logo.png);
-
 #logo-bar {
     background: rgba(75,0,100,0.85);
     height: 100px;
@@ -11294,7 +11292,7 @@ hr {
 
 #logo-bar::after {
   content: "";
-  background: rgba(75,0,100,1) var(@logo) no-repeat top left;
+  background: rgba(75,0,100,1) url(wrangler-logo.png) no-repeat top left;
   top: 0;
   left: 0;
   bottom: 0;
