@@ -10535,7 +10535,7 @@ button.close {
     color: #efefef
 }
 
-.tile-hover:hover {
+/*.tile-hover:hover {
     outline: #888 4px solid
 }
 
@@ -10597,7 +10597,7 @@ button.close {
 
 .tile-selected:after:hover {
     background-color: #f0a30a
-}
+}*/
 
 .tile-label {
     position: absolute;
@@ -10715,7 +10715,7 @@ button.close {
     background-color: #640024
 }
 
-.circle:hover {
+/*.circle:hover {
     box-shadow: 0 0 0 4px #888
 }
 
@@ -10736,7 +10736,7 @@ button.close {
     line-height: 22px;
     z-index: 102;
     top: -7px
-}
+}*/
 
 .bg-black {
     background-color: #000!important
