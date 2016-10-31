@@ -1,4 +1,4 @@
-html {
+﻿html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
@@ -11283,7 +11283,7 @@ hr {
 }
 
 #logo-bar {
-    background: rgba(75,0,100,0.95);
+    background: rgba(75,0,100,0.85);
     height: 100px;
     position: relative;
     margin-top: 50px;
