@@ -11283,11 +11283,22 @@ hr {
 }
 
 #logo-bar {
-    background: #333 url('https://fhtc.edu/students/content/logos/wrangler-logo-carbon.png') no-repeat top left;
+    background: rgba(100,0,75,0.95);
     height: 100px;
     position: relative;
     margin-top: 50px;
     padding: 5px 0
+}
+
+#logo-bar::after {
+  content: "";
+  background: rgba(100,0,75,1) url(wrangler-logo.png)no-repeat top left;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
 }
 
 #logo-bar img {
@@ -11299,7 +11310,6 @@ hr {
     #logo-bar {
         background-position:top center;
         margin-top: 50px;
-        height: 150px
     }
 
     div.col-sm-8 {
