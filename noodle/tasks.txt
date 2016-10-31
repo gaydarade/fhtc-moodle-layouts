@@ -1,5 +1,6 @@
 Goal:
 	Make Moodle look better, and bring it into a stylistic cohesion with fhtc.edu.
+	Apparently that's not the case? Apparently we're making an entirely new webapp: a new student portal...???
 
 1. Identify and select color schemes from moodle and FHTC.
 
