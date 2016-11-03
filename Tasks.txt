@@ -1,0 +1,70 @@
+ERP ( Enterprised Software )
+
+CRM ( Customer Relation Modules )
+--- LMS ( Learning Management System )
+
+1 Course
+	Model
+		Categories
+		Courses
+			Assignments
+		Users
+		Forum Board
+		Participants
+	
+	View
+		Index
+		Edit
+
+	Controller
+		CRUD  -	Index
+				Edit
+
+* Calendar
+	Course Schedule
+	Events
+	Attendance
+
+1 Course
+	Basic Course Info
+	
+	Faculty
+
+	Grading Scale
+		Pass / Fail Grades
+		Credits / Percentage Grades
+
+	Message Board
+
+	Student List ( Toggleable )
+	
+2 Assignments
+	Resources
+	Quizzes
+
+Student Dashboard
+	Student Profile
+		GPA
+		Attendance
+		Notifications
+
+
+	
+Course Summary Block
+	Course Icon/Course Title
+
+	Primary Teacher
+		Modal Contact Form
+
+	Grades
+
+	Book - ISBN
+
+	Course Assessment
+
+Course List / Course Categories
+	Lists all Courses
+	
+	Courses attributed to Categories
+	
+	Categories arranged hierarchically

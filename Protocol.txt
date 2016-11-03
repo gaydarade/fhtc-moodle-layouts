@@ -1,0 +1,69 @@
+Packet
+--------------------
+Unit of data transmitted across a network
+
+Protocol
+--------------------
+Set rules governing packets or network transmissions
+	TCP, TCP/IP (Transmission Control Protocol / Internet Protocol)
+1.) Reliable
+2.) Sequencing
+3.) Resend Capabilities
+4.) Checksum
+5.) Performance Speed Price
+
+	UDP (User Datagram Protocol)
+1.) No checking
+2.) Not Reliable
+3.) runs like a Striped Ass Ape
+		DNS ( Domain Name Service )
+	1.) Uses UDP as Governing Protocol
+	2.) Looks up IP Address, using web address.
+	2.) UDP for lookups, TCP synchronization, TCP zone transfer
+
+	HTTP/HTTPS (Hypertext Transfer Protocol)
+1.) uses TCP/IP as governing Protocol
+2.) Status Code - 2xx, 3xx, 4xx, 5xx
+	100's (informational)
+	200's (success codes)
+		200 OK - Nice, it worked, and now it's done.
+		201 Created
+		204 No Content - It was successfully processed, but you didn't get anything back
+	300's ()
+		301 Redirect - This is a redirect
+			301.1 - Temporary
+			301.2 - Permanent
+		304 Not Modified - Caching; it's already on the machine, and doesn't need to be downloaded.
+	400's (client errors)
+		400 Bad Request - Bad data don't send it back
+		401 Unauthorized - Not logged in, and thus don't have permissions.
+		403 Forbidden - You're logged in, but don't have the permissions to view it.
+		404 Not Found - Resource doesn't exist at a specified URL.
+	500's
+		500 Internal Server Error
+		503 Service Unavailable - Server overloaded or down for maintenance.
+3.) Content Type - (MIME (Multipurpose Internet Mail Extensions) Type)
+	text/plain
+	text/html
+	application/xml
+	application/json
+	application/octet-stream
+4.) Content Length - size of the file (bytes)
+
+	SMTP (Simple Mail Transfer Protocol)
+1.) uses TCP/IP governing protocol
+2.) TO FROM server information
+3.) All servers involved in the email exchange chain
+
+Ports
+--------------------
+HTTP - 90
+HTTPS - 443
+DNS - 53
+MSSQL - 1433, 1434 (Admin Remote Only)
+MYSQL - 3306
+MONGO - 27017
+
+
+Media Access Control
+Address Resolution Protocol [VERY DANGEROUS]

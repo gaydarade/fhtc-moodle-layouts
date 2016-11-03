@@ -1,0 +1,58 @@
+Data Storage / Data Modeling
+------------------------------
+1.) Hard Drive ( Directory / File / Folder )
+	- PROS
+		- Easy Access ( Already in FrameWork code - java.io, System.IO )
+		- No Networking Issues
+	- CONS
+		- Hardware Issues
+		- Data Durability
+		- Open Files and File System Locking - Multi User
+		- Security ( NTFS / ACL, Access Control Limit )
+
+2.) Database ( RDBMS - Relational Database Management System )
+	- PROS
+		- Relational Object Indexing / Querying
+		- ACID
+			- Atomicity   - All or None ( Transaction )
+			- Consistency - Reliable data / not corrupt
+			- Isolation   - Isolated Transactions ( Multi-User )
+			- Durability  - Survive a Catastrophic event ( Power loss, hard drive drop, etc. )
+		- Constraints - Rules ( Primary Keys, Unique Keys, Check Constraints, Data Typing Length )
+		- Security - Uses it's own security rules
+	- CONS
+		- $$ Cost ( Maintainability / Hardware Expense )
+		- Skilled Workers ( Set up the server, administrate it )
+		- Networking ( Network Speed / Complexity / Firewall )
+		- Implemented a 3rd party library
+3.) Directory Structure ( LDAP - Lightweight Directory Access Protocol , AD DS - Hierarchial Data )
+	- PROS
+		- Permissions
+		- No Expensive Join Statements or Query Statements
+		- Durability - Multi Master Replication
+	- CONS
+		- Slow to Query, See Changes
+		- $$ Cost ( Maintenace / Hardware / Setup )
+		- Skilled Workers
+		- Networking
+4.) Document Storage ( MongoDB, DocumentDB - Document Databases )
+	- PROS
+		- ACID Compliant
+		- Support Relational Data, Hierarchial Data, Indexing, Querying
+		- Constraints
+		- Security - Uses own Security or Directory Security
+		- Stored in JSON ( BSON )
+	- CONS
+		- Networking
+		- Skilled Workers
+		
+Data Transfer Objects ( DTO )
+------------------------------------------------
+1.) JSON ( Javascript Object Notation ), XML ( Extensible Markup Language )
+
+2.) XML
+	- Markup Tag based Language
+	- Very Strict Rules
+		- Must open and close tags in order 
+		
+		

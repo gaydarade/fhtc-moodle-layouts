@@ -1,0 +1,56 @@
+Student Perspective - Moodle - FINAL DEADLINE: 12/2
+-----------------------------
+use google file formats instead of converted word documents.
+
+Project Manager - Kelly
+-----------------------------
+Meet with design & database Monday for 30 minutes each.
+Identify impediments.
+Check personality conflicts.
+Identify needs from 'consultant' (Damon).
+SCRUM
+Task Burndown Charts
+
+Design - Trey, Jade, Shane
+-----------------------------
+Create a modern design using bootstrap.
+Pick a color scheme (set up themes).
+10/31 - Mockup Course, Course Category pages, Student Dashboard (Is this redesign??)
+FontAwesome
+
+Database - Troy, Blaine, Alex
+-----------------------------
+Discovery, Mapping
+
+Coding - Wyatt, Jeb, Devon
+-----------------------------
+Off til Monday. Comes back in on 11/1
+
+
+SaaS - Software as a Service
+-----------------------------
+Web App -> (multiple) Company -> (multiple) User
+
+Control / Integration (?/?)
+Responsibility
+1) Networking
+	a.) DNS
+	b.) Domain
+	c.) Core
+2) Software
+	a.) libs
+	b.) Server OS
+	c.) DB
+3) Hardware
+4) Maintenance
+
+INTEGRATION?????
+(ESU - Banner
+FHTC - Jenzabar
+K-12 - Power School)
+Manual Entry? Certainly not.
+
+A web app should have integration points.
+To reduce necessary integration points, funnel DB into JSON, into the webapp, and backward.
+The JSON can be contained in an API, which can be used to play nice
+with Software, Web, Device-type, just about anything.

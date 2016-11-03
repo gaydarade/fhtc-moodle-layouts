@@ -1,0 +1,32 @@
+MVC ( Model View Controller )
+-----------------------------
+This is a web design pattern. Ruby on Rails - Pioneered the move
+
+Model
+-----------------------------
+1.) Source Code ( Class )
+2.) Business Logic
+
+View
+-----------------------------
+1.) HTML / CSS
+2.) Razor / CSHTML ( 90% HTML, 10% Logic )
+
+Controller
+-----------------------------
+1.) Combines the Model with the View.
+
+Important Files
+-----------------------------
+1.) Web.config   - XML Configuration File ( App.config )
+2.) Global.asax  - Application Start/End
+				   Session Start/End
+3.) Routes       - 
+4.) Bundles      - 
+
+
+-- URL Routing
+https://www.fhtc.edu/web/majors/details/hyg
+https://www.fhtc.edu:443 - Web Server / Networking
+web/majors/details/hyg   - Route ( CORE OF MVC )
+						 - {web:virtual application}/{majors:controller}/{details:action}/{hyrg:argument}
